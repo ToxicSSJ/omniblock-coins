@@ -1,0 +1,9 @@
+name: Omniblock-Coins
+main: net.omniblock.coins.CoinsSpigot
+version: 2.0A.universal
+author: Omniblock Developers Team
+website: www.omniblock.net
+commands:
+   omnicoins:
+      aliases: [omnic]
+      description: Permite manejar todo lo relacionado con las monedas.
